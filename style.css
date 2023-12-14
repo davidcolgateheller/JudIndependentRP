@@ -65,7 +65,8 @@ body {
   border: none;
   border-radius: 5px;
   font-size: 3rem;
-  margin: 20px
+  margin: 20px;
+  font-weight: bold;
 }
 
 #content {
